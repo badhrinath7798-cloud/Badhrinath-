@@ -1,0 +1,7 @@
+The script uses *turtle* graphics to draw a colorful pattern.
+
+It sets a black background, uses `colorsys` to convert HSV to RGB colors, and loops to draw arcs with shifting hues.
+
+The outer loop runs 16 times, the inner loop 18 times, drawing circles and rotating the turtle.
+
+The `done()` command ends the drawing.
